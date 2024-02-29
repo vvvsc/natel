@@ -8,9 +8,9 @@ content:
         Asunción, Paraguay."
 
   buttonPrimary:
-    label: "How we work"
-    url: "#"
+    label: "Cómo trabajamos."
+    url: "/nuestro-trabajo"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Contáctenos"
     url: ""

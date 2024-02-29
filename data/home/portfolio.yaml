@@ -2,38 +2,38 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/ingenieria.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/factores.png"
+    pretitle: "Factores."
+    title: "Los factores a tener en cuenta."
+    text: "La producción de proyectos técnicos y legales para servicios de telecomunicaciones es un proceso complejo que requiere de conocimientos especializados en distintas áreas."
 
     buttons:
-      - label: "See live"
-        url: "#"
+      - label: "Contáctenos"
+        url: "/contacto"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Conocer más"
+        url: "/factores"
 
-  - image: "images/tecnologia.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons:
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/legal.png"
+    pretitle: "Control Legal"
+    title: "Legal"
+    text: "La producción de proyectos legales para servicios de telecomunicaciones es una parte esencial del proceso de implementación de cualquier proyecto de telecomunicaciones. Además de los aspectos técnicos y financieros, los proyectos de telecomunicaciones también están sujetos a regulaciones y leyes específicas que deben ser cumplidas para garantizar su éxito y continuidad."
 
     buttons:
-      - label: "See live"
-        url: "#"
+      - label: "Conocer más."
+        url: "/legal"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Contactar"
+        url: "/contacto"
+
+  - image: "images/proceso.png"
+    pretitle: "Procedimiento Stándard"
+    title: "Procedimiento Stándard."
+    text: "No obsta al cuidado de cada detalle, que el proceso de producción de proyectos técnicos y legales para servicios de telecomunicaciones pueda dividirse en varias etapas que permiten garantizar la calidad de los mismos."
+
+    buttons:
+      - label: "Contáctenos."
+        url: "contacto"
+
+      - label: "Saber más"
+        url: "/proceso"

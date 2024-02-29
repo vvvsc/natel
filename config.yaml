@@ -43,12 +43,12 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "Nuestro trabajo"
+      url: "/nuestro-trabajo"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
+    - name: "Producción."
+      url: "/proyectos-tecnicos-produccion"
       weight: 3
 
     - name: "Pricing"
