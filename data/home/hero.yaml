@@ -1,0 +1,16 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Natel"
+  text: "Producción de Proyectos bajo los stándares de la Comisión Nacional de Telecomunicaciones.
+
+        Asunción, Paraguay."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
