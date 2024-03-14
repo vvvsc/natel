@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   {{ partial "head/head.html" . }}
+  {{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+  {{ end }}
   <body>
     {{- partial "shared/header.html" . -}}
     {{- block "main" . -}}{{- end -}}
