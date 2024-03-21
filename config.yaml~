@@ -35,7 +35,7 @@ params:
     - "natel@natel.site"
     - "+595 961 704478"
 
-  copyright: "© 2024 Natel"
+  copyright: "© 2022 Up Business All Rights Reserved"
 
 menus:
   main:
@@ -60,7 +60,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Contacte"
+    - name: "Book a call"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
@@ -70,12 +70,12 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "Nuestro trabajo"
-      url: "/nuestro-trabajo"
+    - name: "How we work"
+      url: "/#"
       weight: 2
 
-    - name: "Nosotros"
-      url: "/nosotros"
+    - name: "Our team"
+      url: "/#"
       weight: 3
 
     - name: "Presupuesto"

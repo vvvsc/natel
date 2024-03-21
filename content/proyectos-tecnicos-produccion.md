@@ -9,5 +9,4 @@ Esta clase de conocimientos no se adquiere sino con una larga experiencia en el 
 En este sentido, la producción de proyectos técnicos para servicios de telecomunicaciones incluye una serie de etapas que van desde la identificación de las necesidades del cliente, pasando por el diseño y planificación, hasta la ejecución y puesta en marcha del proyecto. Todo ello, con el objetivo de garantizar que la red de telecomunicaciones cumpla con los requisitos necesarios para su correcto funcionamiento y brinde un servicio de calidad.
 
 
-  {{< img src="/images/pro.svg" >}}
-  
+{{< img src="/images/pro.svg" >}}
