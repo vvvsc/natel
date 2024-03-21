@@ -8,7 +8,7 @@ tags: [legas, proyectos legales, esquema]
 
 La producción de proyectos legales para servicios de telecomunicaciones es una parte esencial del proceso de implementación de cualquier proyecto de telecomunicaciones. Además de los aspectos técnicos y financieros, los proyectos de telecomunicaciones también están sujetos a regulaciones y leyes específicas que deben ser cumplidas para garantizar su éxito y continuidad.
 
-La implementación de proyectos de telecomunicaciones sin cumplir con las regulaciones y leyes específicas puede resultar en consecuencias graves, como multas, interrupciones en el servicio, daños a la reputación y problemas legales. Por lo tanto, contar con proyectos legales bien estructurados y detallados puede ayudar a evitar estos problemas y garantizar la conformidad regulatoria en todo momento.
+La implementación de proyectos de telecomunicaciones sin cumplir con las regulaciones y leyes específicas puede resultar en consecuencias graves: multas, faltas graves que derivan en antecedentes, daños a la reputación y un sinnúmero de problemas legales. Contar con proyectos legales bien estructurados y detallados puede ayudar a evitar estos problemas y garantizar la conformidad regulatoria en todo momento.
 
 En la producción de proyectos legales para servicios de telecomunicaciones, se suelen incluir aspectos como los permisos y licencias necesarias para la implementación del proyecto, la evaluación de los impactos ambientales y sociales, y la definición de los requisitos de las autoridades regulatorias.
 
@@ -16,10 +16,10 @@ Además, los proyectos legales también pueden incluir información sobre la pro
 
 Por lo usual, la presentación de un proyecto responde al siguiente esquema:
 
-- Proyecto legal
-
-- Proyecto económico
-
-- Proyecto técnico
+|     | Fases |
+| --- | ---   |
+| 1 | Proyecto legal |
+| 2 | Proyecto económico |
+| 3 | Proyecto técnico |
 
 {{< graphcomment >}}
