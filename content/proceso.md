@@ -14,8 +14,6 @@ title: "Proceso"
 | 5. Pruebas y validación                   | Una vez terminada la producción, se realizan pruebas y validaciones para garantizar que cumple con los requerimientos y necesidades del cliente.                                                       |
 | 6. Entrega y documentación del proyecto   | Finalmente, se entrega el proyecto terminado y se presenta la documentación correspondiente, que incluye tanto la parte técnica como la parte legal.                                                   |
 
-Es importante destacar que cada proyecto es único y puede requerir adaptaciones y ajustes en el proceso de producción. Por esta razón, es fundamental contar con un equipo de profesionales capacitados y experimentados para garantizar el éxito del proyecto.
-
-
+Es importante destacar que cada proyecto es único y puede requerir adaptaciones y ajustes en el proceso de producción. Para realizar estos ajustes es fundamental contar con un equipo de profesionales capacitados y experimentados para garantizar el éxito del proyecto.
 
 {{< graphcomment >}}
