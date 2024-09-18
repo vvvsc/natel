@@ -1,12 +1,31 @@
-baseURL: "https://natel.at.eu.org"
+baseURL: "https://natel.site"
 #theme: "up-business-theme"
 languageCode: "en-us"
 
 title: "Natel"
 
-# googleAnalytics: ""
-
 summaryLength: 20
+
+
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true
+
+
 
 params:
   title: "Natel"
@@ -15,6 +34,9 @@ params:
     - "images/hero-image.png"
 
   logo: "arrow-up.png"
+
+  site:
+    math: "true"
 
   favicons:
     themeColor: "#FFFFFF"

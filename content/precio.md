@@ -11,7 +11,13 @@ Se pueden estimar los mismos señalando primariamente los tipos de servicios má
 
 2. Renovación de la misma
 
-Los cuáles llevarán uan razón de $$ \dfrac{1}{3} $$ en cuanto al precio.
+Los cuáles llevarán uan razón de
+
+$$
+\dfrac{1}{3} 
+$$
+
+en cuanto al precio.
 
 Arbitrariamente, podríamos relevar tres extensiones de área:
 
@@ -29,7 +35,13 @@ Una licencia obtenida por primera vez costará alrededor de USD 9 000,00 en este
 
 Un proyecto técnico, incluidas todas sus secciones, para renovar una licencia, puede llegar a costar USD 3000,00. Hay veces que hay que levantar nuevamente los planos.
 
-En suma podemos estimar: $$costo = horas \times USD 50$$ y es los costos estimados se basan en esa formula. Sin embargo una miríada de circunstancias pueden alterarlo: la distancia, el acceso, etc.
+En suma podemos estimar:
+
+$$
+costo = horas \times USD 50
+$$
+
+y es los costos estimados se basan en esa formula. Sin embargo una miríada de circunstancias pueden alterarlo: la distancia, el acceso, etc.
 
 Si antes se va a necesitar un mercadeo, los costos van a variar en razón de qué tan exacta se quiere la previsión y ella naturalmente depende de la población.
 

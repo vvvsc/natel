@@ -28,6 +28,9 @@ De manera generalizadora, el precio estará dado por:
 |$$Co$$       | =            | complejidad de la instalación            |
 |$$J $$       | =            | estado jurídico                          |
 
+---
 
-$$P = I \cdot Cl \cdot A \cdot Co \cdot J$$
+$$
+P = I \cdot Cl \cdot A \cdot Co \cdot J
+$$
 
