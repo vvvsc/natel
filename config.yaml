@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Natel"
-  description: "Nos especializamos en diseñar y llevar adelante proyectos técnicos presentados ante la Conatel, Paraguay'."
+  description: "Nos especializamos en diseñar y llevar adelante proyectos técnicos presentados ante la Conatel, Paraguay."
   images:
     - "images/hero-image.png"
 
@@ -33,7 +33,7 @@ params:
 
   contact:
     - "natel@natel.site"
-    - "+595 961 704478"
+    - "+595 984 444 776"
 
   copyright: "© 2024 Natel"
 
@@ -61,7 +61,7 @@ menus:
 
   buttons:
     - name: "Contacte"
-      url: "/#"
+      url: "/contacto"
       weight: 5
       pre: "btn btn-primary text-light"
 
